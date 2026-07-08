@@ -15,12 +15,14 @@ Full-Stack Developer (Backend ☺️), IA workflows. APIs con **FastAPI**, apps 
 - **astro-log-ia** (repo it's comming...) -> Knowledge RAG/Graph based de exploracion simbolica interpretativa asistida por LLM
 - **[ia-update-gestion-personal](https://github.com/lucianodlf/ia-update-gestion-personal)** -> automatización Telegram, n8n, OCR para gestión de cuentas personales.
 
-### 🏳️‍🌈 Stack
+### 🏳️‍🌈 Stack/Tools/Processes
 
 - Python · FastAPI · Node.js · PostgreSQL · Redis · ARQ · MinIO
 - Vue3 · TailwindCSS · Js · Ts
 - Claude Code CLI · Skills · MCP · knowledge graphs 
 - Linux · Docker · Oracle Cloud · DigitalOcean
+- Agentic Engineering/Workflows, AI-Copiloting, HITL, Vibe Conding
+
 
 ### 🌱 Learning
 - Harness Engineering o algo similar...
@@ -29,4 +31,4 @@ Full-Stack Developer (Backend ☺️), IA workflows. APIs con **FastAPI**, apps 
 
 ### 🤙🏿 Ping... (Colaboraciones / Ideas / Freelance disponible )
 
-luciano.dlf@gmail.com · [LinkedIn](https://www.linkedin.com/in/lucianodelfino) 
+luciano.dlf@gmail.com · [LinkedIn](https://www.linkedin.com/in/lucianodelfino)
