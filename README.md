@@ -29,4 +29,4 @@ Full-Stack Developer (Backend ☺️), IA workflows. APIs con **FastAPI**, apps 
 
 ### 🤙🏿 Ping... (Colaboraciones / Ideas / Freelance disponible )
 
-[LinkedIn](https://www.linkedin.com/in/lucianodelfino) · [GitLab](https://gitlab.com/lucianodlf) · luciano.dlf@gmail.com
+luciano.dlf@gmail.com · [LinkedIn](https://www.linkedin.com/in/lucianodelfino) 
