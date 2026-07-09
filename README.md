@@ -1,19 +1,24 @@
 ```bash
-$ echo "Hola"
+$ # Hola
 $ whoami
 Luciano Delfino — Software Development · Santa Fe, Argentina
 ```
 
 Full-Stack Developer (Backend ☺️), IA workflows. APIs con **FastAPI**, apps web con **Vue3**, Workflows automation **n8n**. Más de 10 años en IT.
 
-### 👾 Proyectos: Trabajando y experimentando (WIP,WIP,WIP...♾️)
+### 🔧 Actualmente
+Freelance de I+D para **INGAR (CONICET-UTN)**: backend/frontend full aplicado en dos proyectos.
+logística de rutas con optimización MILP, y backoffice de gestión institucional. 
+Workflow de desarrollo agéntico personalizado (Claude Code CLI, skills, MCP's, memoria persiste, knowledge graphs (graphify, gitnexus), análisis de impacto antes de cambios, cilos de planifacion, implementacion y revision
 
-- **whtmm?** (repo it's comming...) -> Evolución de experimento _ia-update-gestion-personal_ unificado en un web API + WebUI + MCP + CLI <-> IA Agent
+### 👾 Proyectos personales
+- **[Automatización de gastos personales](https://github.com/lucianodlf/ia-update-gestion-personal)** -> n8n + Telegram + OCR + Google Sheet + IA Agent + MCP para registro automático de gastos.
 - **[Blog](https://lucianodlf.github.io/blog.lucianodlf/)** -> notas, reflexiones, proyectos, cosas de la vida...🌀
-- **[notesmd](https://github.com/lucianodlf/notesmd)** (public it's comming...) -> Recontraarchiconocida app para tomar notas, pero con mis condimentos
 - **[n8n-shbase](https://github.com/lucianodlf/n8n-shbase)** -> template base de n8n self-hosted para múltiples usos.
-- **astro-log-ia** (repo it's comming...) -> Knowledge RAG/Graph based de exploracion simbolica interpretativa asistida por LLM
-- **[ia-update-gestion-personal](https://github.com/lucianodlf/ia-update-gestion-personal)** -> integración n8n + Telegram + OCR + Google Sheet + IA Agent + MCP para registro automático de gastos.
+
+**Explorando (WIP,WIP,WIP...♾️):**
+- **whtmm?** (repo it's comming...) -> evolución de la automatización de gastos hacia stack completo Bun/Hono/Drizzle/TS, con CLI + MCP propios.
+- **astro-log-ia** (repo it's comming...) -> RAG/Knowledge Graph de exploración simbólica interpretativa asistida por LLM.
 
 ### 🏳️‍🌈 Stack/Tools/Processes
 
