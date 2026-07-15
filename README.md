@@ -34,4 +34,4 @@ Workflow de desarrollo agéntico personalizado (Claude Code CLI, skills, MCP's, 
 
 ### 🤙🏿 Ping... (Colaboraciones / Ideas / Freelance disponible )
 
-https://lucianodlf.github.io/blog.lucianodlf/ · luciano.dlf@gmail.com · [LinkedIn](https://www.linkedin.com/in/lucianodelfino)
+https://lucianodlf.is-a.dev/ · luciano.dlf@gmail.com · [LinkedIn](https://www.linkedin.com/in/lucianodelfino)
