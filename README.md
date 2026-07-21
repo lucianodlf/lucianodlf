@@ -9,15 +9,17 @@ Full-Stack Developer (Backend ☺️), IA workflows. APIs con **FastAPI**, apps 
 ### 🔧 Actualmente
 Freelance de I+D para **INGAR (CONICET-UTN)**: backend/frontend full aplicado en dos proyectos.
 logística de rutas con optimización MILP, y backoffice de gestión institucional. 
-Workflow de desarrollo agéntico personalizado (Claude Code CLI, skills, MCP's, memoria persiste, knowledge graphs (graphify, gitnexus), análisis de impacto antes de cambios, cilos de planifacion, implementacion y revision. Implementando spec driven development.
+Workflow de desarrollo agéntico personalizado (Claude Code CLI, skills, MCP's, memoria persiste, knowledge graphs (ej: graphify, gitnexus), cilos de planifacion, implementacion y revision. Implementando spec driven development.
 
 ### 👾 Proyectos personales
-- **[Automatización de gastos personales](https://github.com/lucianodlf/ia-update-gestion-personal)** -> n8n + Telegram + OCR + Google Sheet + IA Agent + MCP para registro automático de gastos.
+- **[Automatización de gastos personales](https://github.com/lucianodlf/ia-update-gestion-personal)** -> n8n + Telegram + OCR + Google Sheet + Agent + MCP para registro automático de gastos.
 - **[Blog](https://lucianodlf.github.io/blog.lucianodlf/)** -> notas, reflexiones, proyectos, cosas de la vida...🌀
 - **[n8n-shbase](https://github.com/lucianodlf/n8n-shbase)** -> template base de n8n self-hosted para múltiples usos.
+- **[gplnr](https://github.com/lucianodlf/gplnr)** -> Extension para vscode. Simplemente ajustada a lo que necesito.
 
 **Explorando (WIP,WIP,WIP...♾️):**
 - **whtmm?** (repo it's comming...) -> evolución de la automatización de gastos hacia stack completo Bun/Hono/Drizzle/TS, con CLI + MCP propios.
+- **notesmd** (repo it's comming...) -> notas (inspirado en keep) + markdown. Con los condimetos que quiero usar.
 - **astro-log-ia** (repo it's comming...) -> RAG/Knowledge Graph de exploración simbólica interpretativa asistida por LLM.
 
 ### 🏳️‍🌈 Stack/Tools/Processes
