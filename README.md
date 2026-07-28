@@ -9,7 +9,7 @@ Full-Stack Developer (Backend ☺️), IA workflows. APIs con **FastAPI**, apps 
 ### 🔧 Actualmente
 Freelance de I+D para **INGAR (CONICET-UTN)**: backend/frontend full aplicado en dos proyectos.
 logística de rutas con optimización MILP, y backoffice de gestión institucional. 
-Workflow de desarrollo agéntico personalizado (Claude Code CLI, skills, MCP's, memoria persiste, knowledge graphs (ej: graphify, gitnexus), cilos de planifacion, implementacion y revision. Implementando spec driven development.
+Workflow de desarrollo agéntico personalizado (Claude Code CLI, skills, MCP's, memoria persiste, knowledge graphs (ej: graphify, gitnexus), ciclos de planificación, implementación y revision. Implementando spec driven development.
 
 ### 👾 Proyectos personales
 - **[Automatización de gastos personales](https://github.com/lucianodlf/ia-update-gestion-personal)** -> n8n + Telegram + OCR + Google Sheet + Agent + MCP para registro automático de gastos.
@@ -18,16 +18,16 @@ Workflow de desarrollo agéntico personalizado (Claude Code CLI, skills, MCP's, 
 - **[gplnr](https://github.com/lucianodlf/gplnr)** -> Extension para vscode. Simplemente ajustada a lo que necesito.
 
 **Explorando (WIP,WIP,WIP...♾️):**
+- **[notesmd](https://github.com/lucianodlf/notesmd)**-> notas (inspirado en keep) + markdown. Con los condimentos que quiero usar.
 - **whtmm?** (repo it's comming...) -> evolución de la automatización de gastos hacia stack completo Bun/Hono/Drizzle/TS, con CLI + MCP propios.
-- **notesmd** (repo it's comming...) -> notas (inspirado en keep) + markdown. Con los condimetos que quiero usar.
 - **astro-log-ia** (repo it's comming...) -> RAG/Knowledge Graph de exploración simbólica interpretativa asistida por LLM.
 
 ### 🏳️‍🌈 Stack/Tools/Processes
 
 - Python · FastAPI · Node.js · PostgreSQL · Redis · ARQ · MinIO
 - Vue3 · TailwindCSS · Js · Ts
-- Claude Code CLI · Skills · MCP · knowledge graphs · agentmemory · gitnexus · graphify (Agentic Workflows para desarrollo)
-- Linux · Docker · Oracle Cloud · DigitalOcean
+- Claude Code CLI · Skills · MCP · knowledge graphs · agentmemory · gitnexus · graphify . serena . rtk . ponytail (Agentic Workflows para desarrollo)
+- Linux · Docker · OCI · DigitalOcean
 
 ### 🌱 Learning
 - Harness Engineering o algo similar...
