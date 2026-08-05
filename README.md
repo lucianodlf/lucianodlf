@@ -12,15 +12,15 @@ logística de rutas con optimización MILP, y backoffice de gestión institucion
 Explorando workflow de desarrollo agéntico personalizado (Claude Code CLI, skills, MCP's, memoria persiste, knowledge graphs (ej: graphify, gitnexus), ciclos de planificación, implementación y revision. Implementando spec driven development.
 
 ### 👾 Proyectos personales
-- **[Automatización de gastos personales](https://github.com/lucianodlf/ia-update-gestion-personal)** -> n8n + Telegram + OCR + Google Sheet + Agent + MCP para registro automático de gastos.
-- **[Blog](https://lucianodlf.github.io/blog.lucianodlf/)** -> notas, reflexiones, proyectos, cosas de la vida...🌀
-- **[n8n-shbase](https://github.com/lucianodlf/n8n-shbase)** -> template base de n8n self-hosted para múltiples usos.
-- **[gplnr](https://github.com/lucianodlf/gplnr)** -> Extension para vscode. Simplemente ajustada a lo que necesito.
+- **[Automatización de gastos personales](https://github.com/lucianodlf/ia-update-gestion-personal)**: n8n + Telegram + OCR + Google Sheet + Agent + MCP para registro automático de gastos.
+- **[Blog](https://lucianodlf.github.io/blog.lucianodlf/)**: notas, reflexiones, proyectos, cosas de la vida...🌀
+- **[n8n-shbase](https://github.com/lucianodlf/n8n-shbase)**: template base de n8n self-hosted para múltiples usos.
+- **[gplnr](https://github.com/lucianodlf/gplnr)**: Extension para vscode. Simplemente ajustada a lo que necesito.
 
 **Explorando (WIP,WIP,WIP...♾️):**
-- **[NotesMD](https://github.com/lucianodlf/notesmd)** ---> notas (inspirado en keep) + markdown. Exploración React, Con los condimentos que quiero usar. (Evolucionando a _MinguitoD_)
-- **[MiTarasca](https://mitarasca.demo.lucianodlf.com.ar)** ---> evolución de la automatización de gastos hacia stack completo Bun/Hono/Drizzle/TS, con CLI + MCP.
-- **astro-log-ia** (it's comming...) ---> RAG/Knowledge Graph de exploración simbólica interpretativa asistida por LLM.
+- **[NotesMD](https://github.com/lucianodlf/notesmd)**: notas (inspirado en keep) + markdown. Exploración React, Con los condimentos que quiero usar. (Evolucionando a _MinguitoD_)
+- **[MiTarasca](https://mitarasca.demo.lucianodlf.com.ar)**: evolución de la automatización de gastos hacia stack completo Bun/Hono/Drizzle/TS, con CLI + MCP.
+- **astro-log-ia** (it's comming...): RAG/Knowledge Graph de exploración simbólica interpretativa asistida por LLM.
 
 ### 🏳️‍🌈 Stack/Tools/Processes
 
